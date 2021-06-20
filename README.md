@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @yohan2095
+- 👀 I’m interested in Aviation, Technology, Football, Video Games...
+- 🌱 I’m currently learning Full Stack Devellopment...
+- 📫 How to reach me : @yohan.77 on Instagram...
+
+<!---
+yohan2095/yohan2095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
