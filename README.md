@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yohan2095
-- 👀 I’m interested in Aviation, Technology, Football, Video Games...
-- 🌱 I’m currently learning Full Stack Devellopment...
-- 📫 How to reach me : @yohan.77 on Instagram...
+- 🌱 I’m currently learning Full Stack Devellopment !
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan2095)](https://github.com/anuraghazra/github-readme-stats)
 
