@@ -1,7 +1,7 @@
 - Hi, I’m @yohan2095, i am Franco-Israeli 🇫🇷 / 🇮🇱 .
-- I speak French 🇫🇷, Hebrew 🇮🇱, & English 🇺🇸.
+- I speak French, Hebrew, & English.
 - I work in the Air Transport Industry. ✈️
-- 🌱 I’m currently learning Full Stack Devellopment at the Technion !
+- I’m currently learning Full Stack Devellopment at the Technion ! 🌱 
 
 My Programming Languages:
 
@@ -15,13 +15,6 @@ My DataBases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-My Editors:
-
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
-
-My Operating Systems:
-
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 	![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 You can find me on:
 
