@@ -1,7 +1,7 @@
 - Hi, I’m @yohan2095, i am Franco-Israeli 🇫🇷 / 🇮🇱 .
 - I speak French, Hebrew, & English.
 - I work in the Air Transport Industry. ✈️
-- I’m currently learning Full Stack Devellopment at the Technion ! 🌱 
+- Certified Full Stack Web Developer from the Technion ! 🌱 
 
 My Programming Languages:
 
